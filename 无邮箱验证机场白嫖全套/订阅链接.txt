@@ -1,0 +1,2 @@
+https://ni8.me/api/v1/client/subscribe?token=598032daffdd2b4002ff54dae3aa9fe3
+https://ni8.me/api/v1/client/subscribe?token=c0cb045906972212a343b197458dd3f4
